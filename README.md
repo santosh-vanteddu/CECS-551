@@ -1,9 +1,12 @@
 # CECS-551
 CECS 551 - Advanced Artificial Intelligence
 
+10-21-2022
+----------
 pip install dalex -U
 
-
+10-20-2022
+----------
 Required Setp/Installations (to get to OmniXAI & respective plotting)
 -------- ------------------ -----------------------------------------
 #pip install --upgrade --user nbconvert
