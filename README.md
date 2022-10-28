@@ -1,5 +1,4 @@
-# CECS-551
-CECS 551 - Advanced Artificial Intelligence
+# CECS-551 - Advanced Artificial Intelligence
 
 10-21-2022
 ----------
